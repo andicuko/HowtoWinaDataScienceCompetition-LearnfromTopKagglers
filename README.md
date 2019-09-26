@@ -12,4 +12,4 @@ This notebook includes:
   Adding categorical features, mean encoded features, lag features, mean encoded lag features etc.
 - The Model:
   I used few different models: XGboost, Random Forest, Linear Regression, Neural Networks.
-  I have used stacking to harness prediction from all these model: I used a linear regression to fit metafeatures originated from them.  
+  I have used stacking to harness predictions from all these model: linear regression is used to fit metafeatures originated from them.  
